@@ -1,0 +1,47 @@
+.main {
+  margin: 56px auto;
+  display: flex;
+  max-width: 1000px;
+  width: 100%;
+}
+.svg-1 {
+  color: aliceblue;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 2px blue;
+  background-color: rgb(7, 0, 0);
+}
+.svg-1:hover {
+  background-color: rgb(27, 2, 253);
+}
+.column-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  padding-left: 24px;
+  text-align: center;
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  text-align: center;
+}
+.column-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  padding-right: 12px;
+  text-align: center;
+}
+h4{
+margin-top: 13px;
+margin-bottom: 2px;
+}
